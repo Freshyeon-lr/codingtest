@@ -1,3 +1,8 @@
+# 큰 수의 법칙 
+# part 2. 주요 알고리즘 이론과 실전 문제
+# - chapter 3. Greedy
+# - 실전 문제 3. 숫자 카드 게임
+
 n, m = map(int, input().split())
 
 for i in range(n):

@@ -1,5 +1,5 @@
 # need more practice
-# 큰 수의 법칙 
+
 # part 2. 주요 알고리즘 이론과 실전 문제
 # - chapter 4. 구현
 # - 실전 문제 3. 게임 개발

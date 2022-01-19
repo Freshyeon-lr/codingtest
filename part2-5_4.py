@@ -1,3 +1,7 @@
+# part 2. 주요 알고리즘 이론과 실전 문제
+# - chapter 5. DFS/BFS
+# - 예제 5-4. 미로 탈출
+
 from collections import deque
 
 dx = [-1, 1, 0, 0]

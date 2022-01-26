@@ -1,3 +1,7 @@
+# part 2. 주요 알고리즘 이론과 실전 문제
+# - chapter 4. 구현
+# - 예제 4-1. 상하좌우
+
 N = input()
 step = list(input().split())
 x = 1

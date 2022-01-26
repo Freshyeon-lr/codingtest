@@ -1,3 +1,7 @@
+# part 2. 주요 알고리즘 이론과 실전 문제
+# - chapter 5. DFS/BFS
+# - 예제 5-3. 음료수 얼려 먹기
+
 n, m = map(int, input().split())
 graph = []
 for i in n:
@@ -21,4 +25,3 @@ for i in range(n):
         if dfs(i, j):
             result += 1
 print("result = ", result)
-

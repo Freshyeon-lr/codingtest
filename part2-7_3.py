@@ -1,6 +1,6 @@
 # part 2. 주요 알고리즘 이론과 실전 문제
 # - chapter 7. 이진 탐색
-# - 예제 7-3. 떡볶이 떡 만들기
+# - 예제 7-3. 떡볶이 떡 만들기*
 
 n, m = list(map(int, input().split(' ')))
 array = list(map(int, input().split()))
